@@ -215,4 +215,8 @@ public class CalcEngine {
 		// Reset everything.
 		clear();
 	}
+	
+	private void testMethod() {
+		System.out.println("hallo");
+	}
 }
