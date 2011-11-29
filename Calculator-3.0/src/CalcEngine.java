@@ -219,4 +219,8 @@ public class CalcEngine {
 	private void testMethod() {
 		System.out.println("hallo");
 	}
+	
+	private void testMethodTwo(){
+		System.out.println("bla");
+	}
 }
